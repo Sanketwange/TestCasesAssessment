@@ -18,7 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Auth\AuthService\OrderAPP.csproj" />
     <ProjectReference Include="..\Order\OrderService\OrderAPP.csproj" />
   </ItemGroup>
 
